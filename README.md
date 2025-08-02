@@ -56,5 +56,3 @@ Perfect for students, educators, or curious minds looking to learn U.S. geograph
 
 Feel free to fork, improve, or remix this project! If you'd like a badge section or a license snippet, I can add that too.
 ``` 
-
-Want to turn this into a mini web app or add score tracking in the future? I’ve got ideas to expand it!
